@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+
+body {
+ background-color: #272b30 !important;
+ /* color: white !important; */
+ font-family: 'Montserrat Alternates',sans-serif;
+}
+
+code {
+  font-family: 'Montserrat Alternates',sans-serif;
+}
+.gameHead{
+  background-image: url('../src/img/bgGame.png');
+  background-position: center;
+  background-size: cover;
+  height: 50vh;
+}

@@ -1,0 +1,9 @@
+
+.nav-item :hover{
+ color: royalblue !important;
+}
+.nav-item .bg-success{
+  background-color:royalblue !important;
+  color: white !important;
+}
+
